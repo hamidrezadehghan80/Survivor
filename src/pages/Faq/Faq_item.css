@@ -1,0 +1,13 @@
+.app__faq_question{
+    color: var(--font_orange);
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0;
+}
+
+.app__faq_icon{
+    font-size: 24px;
+    color: var(--font_orange);
+    cursor: pointer;
+}
+

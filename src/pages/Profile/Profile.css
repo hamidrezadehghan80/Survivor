@@ -1,0 +1,41 @@
+.app__profile_cover_image{
+    min-width: 100%;
+    border-radius: 1rem 1rem 0 0;
+}
+
+.app__profile_avatar_img{
+    position: absolute;
+    top: -250%;
+    left: 0;
+
+}
+.app__profile_avatar_img img{
+    width: 142px;
+    height: 139px;
+    border-radius: 50%;
+    border: 1px solid var(--font_orange);
+}
+
+.app__profile_editbtn{
+    background-color: transparent;
+    outline: none;
+    border: 2px solid var(--font_orange);
+    color: var(--font_orange);
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 19px;
+    width: 112px;
+    height: 39px;
+    border-radius: 1rem;
+}
+
+.app__profile_bio_text{
+    color: var(--font_blue);
+    font-size: 15px;
+}
+
+.app__profile_follow{
+    color: var(--font-grey);
+    font-size: 15px;
+    margin: 0 5px;
+}

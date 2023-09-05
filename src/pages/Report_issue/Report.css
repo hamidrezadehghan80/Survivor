@@ -1,0 +1,27 @@
+.app__report_title{
+    color: var(--font_orange);
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.app__report_text{
+    color: var(--font_blue);
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.app__report_input{
+    border: 1px solid var(--border_grey);
+    background-color: white;
+    color: var(--font-grey);
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 26px;
+    width: 100%;
+    height: 200px;
+    padding: .5rem;
+    border-radius: 1rem;
+    outline: none;
+}

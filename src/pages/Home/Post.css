@@ -1,0 +1,15 @@
+.app__home_post_icons *{
+    color: var(--font-grey)!important;
+    font-size: 18px!important;
+    font-style: italic;
+    margin: 0 2px;
+}
+
+.app__home_post_btn{
+    outline: none;
+    border: none;
+    background-color: transparent;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+}

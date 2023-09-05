@@ -1,0 +1,12 @@
+.app__rightside_who_to_follow{
+    /*padding: 0!important;*/
+}
+
+.app__rightside_who_to_follow > p {
+    margin: .5rem 1rem;
+}
+
+.app__rightside_who_to_follow > hr {
+    width: 100%;
+    color: var(--divider_dark);
+}

@@ -1,0 +1,15 @@
+.app__thread_tab_btn{
+    width: 50%;
+    background-color: var(--background_gray) !important;
+    color: var(--font_blue) !important;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.app__thread_tab_btn-active{
+    background-color: var(--font_orange) !important;
+    color: white !important;
+    width: 50%;
+    font-size: 20px;
+    font-weight: 300;
+}

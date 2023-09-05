@@ -1,0 +1,16 @@
+.app__rightside_searchbox{
+    padding: 0rem 1rem;
+    background-color: var(--background_gray);
+    color: var(--font-grey);
+    font-size: 16px;
+    border-radius: 1rem;
+    height: 2.2rem;
+}
+
+.app__rightside_searchbox input{
+    outline: none;
+    border: none;
+    background-color: inherit;
+    color: var(--font-grey);
+    min-width: 95%;
+}

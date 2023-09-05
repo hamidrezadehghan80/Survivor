@@ -1,0 +1,55 @@
+.app__home-newpost-input{
+    width: 350px;
+    height: 27px;
+    outline: none;
+    border: none;
+
+    color: var(--font-grey);
+    font-size: 20px;
+    background-color: transparent;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: -0.015em;
+    text-align: left;
+}
+
+.app__home-newpost-postbtn{
+    width: 77px;
+    height: 39px;
+    background-color: var(--font_orange);
+    color: white;
+    font-weight: bold;
+    border-radius: 1rem;
+    outline: none;
+    border: none;
+    font-family: "Open Sans";
+}
+
+.app__home-newpost-postimg{
+    width: 467px;
+    height: 257px;
+
+    border-radius: 1rem;
+    border: 1px solid var(--border_grey);
+    background-repeat: round;
+    background-size: cover;
+    position: relative;
+}
+
+.app__home-newpost-postimg *{
+    font-size: 20px;
+    color: var(--font_orange);
+    position: absolute;
+    right: 10px;
+    top : 10px;
+}
+
+.app__home-newpost-icon{
+    font-size: 30px;
+    color: var(--font_orange)!important;
+}
+
+.app__home-newpost-icon:hover{
+    cursor: pointer;
+}

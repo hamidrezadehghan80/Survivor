@@ -1,0 +1,12 @@
+.app__rightside_trending{
+    /*padding: 0!important;*/
+}
+
+.app__rightside_trending > p {
+    margin: .5rem 1rem;
+}
+
+.app__rightside_trending > hr {
+    width: 100%;
+    color: var(--divider_dark);
+}
